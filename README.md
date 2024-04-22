@@ -1,4 +1,4 @@
-[![MasterHead](https://community.tatsu.gg/uploads/monthly_2021_01/ShapesBackground.gif.e77deac2da454ff7c9b2fd4e180429cc.gif)](https://rishavchanda.io)
+[![MasterHead](https://community.tatsu.gg/uploads/monthly_2021_01/ShapesBackground.gif.e77deac2da454ff7c9b2fd4e180429cc.gif)]
 <h1 align="center">Hi 👋, I'm Aris</h1>
 <h3 align="center">I'm a student who just started to program my first projects</h3>
 
