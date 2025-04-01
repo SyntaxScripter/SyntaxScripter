@@ -1,4 +1,4 @@
-<h3 align="center">Im a developer in beta</h3>
+<h3 align="left">Im a developer in beta</h3>
 
 - 🌱 I’m currently learning **python and kotlin**
 
